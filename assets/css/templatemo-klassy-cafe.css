@@ -120,12 +120,12 @@ body {
 }
 
 ::selection {
-  background: #fb5849;
+  background: #A766FF;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #fb5849;
+  background: #A766FF;
   color: #fff;
 }
 
@@ -147,7 +147,7 @@ body {
 
 .main-white-button a {
   font-size: 13px;
-  color: #fb5849;
+  color: #A766FF;
   background-color: #fff;
   padding: 12px 25px;
   display: inline-block;
@@ -174,7 +174,7 @@ body {
 .section-heading h6 {
   position: relative;
   font-size: 15px;
-  color: #fb5849;
+  color: #A766FF;
   font-weight: 500;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -188,7 +188,7 @@ body {
   position: absolute;
   left: 0;
   top: 8px;
-  background-color: #fb5849;
+  background-color: #A766FF;
 }
 
 .section-heading h2 {
@@ -223,11 +223,11 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #fb5849!important;
+  color: #A766FF!important;
 }
 
 .background-header .nav li a.active {
-  color: #fb5849!important;
+  color: #A766FF!important;
 }
 
 .header-area {
@@ -315,12 +315,12 @@ header
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #fb5849!important;
+  color: #A766FF!important;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #fb5849!important;
+  color: #A766FF!important;
   opacity: 1;
 }
 
@@ -382,7 +382,7 @@ header
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
   background: #fff;
-  color: #fb5849!important;
+  color: #A766FF!important;
   padding-left: 25px;
 }
 
@@ -522,7 +522,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #fb5849;
+  color: #A766FF;
 }
 
 @media (max-width: 1200px) {
@@ -541,7 +541,7 @@ header
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #fb5849!important;
+    color: #A766FF!important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -599,7 +599,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #fb5849!important;
+    color: #A766FF!important;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;
@@ -675,8 +675,8 @@ banner
 
 #top .left-content h4 {
   font-family: 'Dancing Script', cursive;
-  color: #fff;
-  font-size: 54px;
+  color: #000000;
+  font-size: 35px;
   font-weight: 700;
 }
 
@@ -684,7 +684,7 @@ banner
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #fff;
+  color: #000000;
   letter-spacing: 3px;
   margin-top: 5px;
 }
@@ -760,7 +760,7 @@ banner
   right:30px;
   width: 50px;
   height: 50px;
-  background-color: #fb5849;
+  background-color: #A766FF;
   border:0 none;
   line-height: 44px;
   border-radius: 50%;
@@ -884,7 +884,7 @@ about
   display: inline-block;
   line-height: 70px;
   text-align: center;
-  background-color: #fb5849;
+  background-color: #A766FF;
   color: #fff;
   border-radius: 50%;
   transform: translate(-35px, -35px);
@@ -941,8 +941,8 @@ menu
 .info {
   position: relative;
   width: 100%;
-  background-color: #fb5849;
-  border: 1px solid #fb5849;
+  background-color: #A766FF;
+  border: 1px solid #A766FF;
   transform: translateY(100%)
   translateY(120px)
   translateZ(0);
@@ -971,7 +971,7 @@ menu
   position: absolute;
   width: 70px;
   height: 70px;
-  background-color: #fb5849;
+  background-color: #A766FF;
   font-size: 20px;
   font-weight: 700;
   color: #fff;
